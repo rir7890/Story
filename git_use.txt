@@ -1,0 +1,6 @@
+1- intialize the git by => git init
+2 - git add .  => it is used to  save the file changes 
+3 - git status => it will give the file status if it is commited or not
+4 - git  diff  file_name  => it will give the changes between the last file and new file
+5 - git commit -m "first commit" => it is used to save the change file with user information
+6 - git checkout filename => to get the previous unchange file
